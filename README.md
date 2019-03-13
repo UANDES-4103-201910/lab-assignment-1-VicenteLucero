@@ -14,3 +14,11 @@ HTML tags:
 	-<form>: is a input field, it can have all the inputs that the developer need, in this case the input field would be the word to search.
 	-<script>: is used to defined a JavaScript, either contains scripting statements or to point an external script file. 
 
+Sources files:
+-News: it conteins all the specifications of the structure of the tables and the metadata of the html tag. in the structure of the <tr> we can find the "id", the "style" (height, colors, etc), the possition and the class name if it have. 
+
+-hn.js....: has defined all the JavaScript functions of the web site.
+-news.css: describe the style presentation document. Is the style sheet document. 
+- .gif: Is all of the images used in the site.
+
+ 
