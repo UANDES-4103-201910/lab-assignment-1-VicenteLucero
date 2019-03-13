@@ -21,4 +21,8 @@ Sources files:
 -news.css: describe the style presentation document. Is the style sheet document. 
 - .gif: Is all of the images used in the site.
 
- 
+XHR: The XMLHttpRequest is an API in the objects forms whose methods transfer data between the browser and the server. The file transfer is queared since the moment that you enter to the web site, starting with the "news" file document with the structure of the page, then the main image, then the funccions, the css file and finally another image (in this case).
+
+Security Certificate:
+-emitted by: COMODO RSA Domain Validation Secure Server CA
+-Valid from 8/21/2014 to 8/21/2019 
